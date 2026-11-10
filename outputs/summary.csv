@@ -1,0 +1,5 @@
+Portfolio,Model,VaR95 %,ES95 %,VaR99 %,ES99 %,VaR95 $,ES95 $
+A: Concentrated Tech,normal,12.73,15.44,17.02,19.06,12732.79,15437.58
+A: Concentrated Tech,t,12.25,16.66,19.08,24.31,12252.01,16656.42
+B: Diversified,normal,7.67,9.48,10.45,12.03,7666.66,9481.71
+B: Diversified,t,7.37,10.26,11.69,15.51,7368.74,10260.03
